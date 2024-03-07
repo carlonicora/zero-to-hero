@@ -18,69 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "607e00b18ddf1b6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60d628bdff7c09c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Expert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d77eb6bee2ecfd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Companion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "894a95455ecb6e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Master.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3a01f90ba53e3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Basic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Basic.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Basic.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Basic.md"
+                "file": "README.md"
               }
             }
           }
@@ -207,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3a01f90ba53e3a",
+  "active": "c13ab23c6487fe6c",
   "lastOpenFiles": [
+    "1.Basic.md",
     "README.md",
-    "5. Immortal.md",
-    "4. Master.md",
-    "3. Companion.md",
-    "2. Expert.md",
     "1. Basic.md",
+    "2. Expert.md",
+    "3. Companion.md",
+    "4. Master.md",
+    "5. Immortal.md",
     "Welcome.md"
   ]
 }

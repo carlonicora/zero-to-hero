@@ -18,7 +18,7 @@ Associating the plot with a railroad is like saying that building a car is bad b
 
 ### Step by step
 This guide is divided in 5 steps. Each step helps you move forward in your journey as a GM. 
-- In the [[1. Basic|Basic]], I will talk about **conflicts** and **plots**, and teach you how to plot an adventure or session in 10 minutes. That's enough to start telling better stories.
+- In the [Basic](1.Basic) [[1. Basic|Basic]], I will talk about **conflicts** and **plots**, and teach you how to plot an adventure or session in 10 minutes. That's enough to start telling better stories.
 - The [[2. Expert|Expert]] section will dig deeper into how to identify a list of **scenes** for your plot. This will help you planning a more balance adventure.
 - In the [[3. Companion|Companion]] part you will learn how to truly integrate **player characters' background** in the story and how to create more rounded **non-player characters** to give your adventure a better sense of depth.
 - The [[4. Master|Master]] chapter is all about running your games and learn how to **improvise**. You will understand how to enjoy the thrill of your players breaking your plot and you throwing even better encounters at them.

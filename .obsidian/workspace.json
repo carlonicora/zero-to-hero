@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Basic.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Basic.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Basic.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Basic.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "c13ab23c6487fe6c",
   "lastOpenFiles": [
-    "README.md",
-    "5.Immortal.md",
-    "4.Master.md",
     "3.Companion.md",
+    "README.md",
     "2.Expert.md",
     "1.Basic.md",
+    "5.Immortal.md",
+    "4.Master.md",
     "Welcome.md"
   ]
 }
